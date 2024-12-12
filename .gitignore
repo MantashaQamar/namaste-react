@@ -1,0 +1,4 @@
+# whatever that can be regerated with the existing info in the code comes here
+/node_modules
+/dist
+.parcel-cache
